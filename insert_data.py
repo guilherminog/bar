@@ -17,3 +17,4 @@ def inf_contato():
     email = input('insira seu email: ')
     endereco = input('Seu endereco: ')
     return tel, email, endereco
+

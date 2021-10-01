@@ -25,6 +25,7 @@ while True:
     else:
         print('Idade invalida!')
         idade = inf_idade()
+        
 
 
 

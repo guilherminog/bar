@@ -24,3 +24,4 @@ def insert_value(nome,idade):
     else:
         print(f'{nome} Muito obrigado por estar conosco.')
     quit()
+    
