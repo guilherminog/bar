@@ -1,2 +1,8 @@
-# bar
-Projeto em python de coleta de dados pessoais e sobre saúde.
+## Pequeno programa para coletar dados e um program embutido de IMC
+###Projeto em python de coleta de dados pessoais e sobre saúde.
+...
+...
+### Evoluindo o projeto...
+Em evolução - Projeto em python de coleta de dados.
+Em evolução - Criando uma UI para inserção
+tentar com sqlite - Estundando formas de inserção, coleta de dados e interação com os dados.
