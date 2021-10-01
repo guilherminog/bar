@@ -8,8 +8,10 @@ app.resizable(1, 1)
 backFrame = tk.Frame(master=app, width=200, height=200, bg = 'yellow').pack()
 
 
-button1 = tk.Button(master=backFrame, text='Login', bg='blue', fg='red', ).pack()
+button1 = tk.Button(master=backFrame, text='', bg='blue', fg='red', ).pack()
+button1.place(x=100, y=80)
 button2 = tk.Button(master=backFrame, text='teste', bg='blue', fg='green').pack()
+button2.place(x=100, y=60)
 #button3 = tk.Label(master=backFrame, text='Button 3', bg='red',fg='blue').pack()
 
 
